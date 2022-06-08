@@ -1,6 +1,3 @@
-"""
- * Authors: Ofek Elgozi (ID: 318432085), Ido Hazan (ID:316613769), Stav Sharabi (ID:208163840)
-"""
 
 from sympy import tan
 from math import e
